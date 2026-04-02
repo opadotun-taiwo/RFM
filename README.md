@@ -28,10 +28,11 @@ This segmentation enables targeted strategies for different customer groups, fro
 
 ### Cohort Analysis
 
+<img width="875" alt="RFM logic" src="https://github.com/opadotun-taiwo/RFM/blob/main/main.png" />
+
 Track user behavior across time to measure:
 - **Merchant Management**: Better understanding and support for top merchants
 - **Retention Rates**: Identify cohorts with declining engagement
-- **Average TPV Growth**: Monitor transaction value trends across user cohorts
 - **Growth Velocity**: Track how your user base evolves month-over-month
 - **Marketing ROI**: Measure the real impact of marketing efforts with MOM (Month-over-Month) visibility
 
